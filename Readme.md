@@ -1,0 +1,1 @@
+Patika.Dev siyesindeki Veri yapıları ve algoritmalar dersinde verilen ödevlerin cevapları mevcuttur.
